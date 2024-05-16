@@ -1,7 +1,7 @@
 # Acute-Lymphoblastic-Leukemia
 Predictive Analytics for Acute Lymphoblastic Leukemia
 
-Link for the komati_rf.joblib https://drive.google.com/file/d/1AoTJzqwAiF1yM4MXDklHRUHGw-68-ZMN\
+Link for the komati_rf.joblib https://drive.google.com/file/d/1AoTJzqwAiF1yM4MXDklHRUHGw-68-ZMN
 
 
 
